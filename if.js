@@ -7,11 +7,11 @@ let nivel = 3;
 
 // Parte 1 - Estado de Saúde de Ayla
 if (vida >= 80) {
-    console.log("Ayla está em ótima forma!");
+    console.log("Ayla está em ótima forma! ahahaha");
 } else if (vida >= 40) {
-    console.log("Ayla está ferida, mas ainda pode lutar");
+    console.log("Ayla está ferida, mas ainda pode lutar ahahha");
 } else {
-    console.log("Ayla está em estado crítico, recue!");
+    console.log("Ayla está em estado crítico, recue! ahaha");
 }
 
 // Parte 2 - Missao
@@ -31,7 +31,7 @@ if (xp >= 1000) {
 }
 
 if (ouro >= 300) {
-    console.log("Ayla comprou a armadura mágica");
+    console.log("Ayla comprou a armadura mágica haha");
 } else {
-    console.log("Ayla não tem ouro suficiente.");
+    console.log("Ayla não tem ouro suficiente. ahahah");
 }
