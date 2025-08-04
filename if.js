@@ -36,4 +36,5 @@ if (ouro >= 300) {
     console.log("Fala 300, fala 300");
 } else {
     console.log("Ayla não tem ouro suficiente.");
+    
 }
