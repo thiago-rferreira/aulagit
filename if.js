@@ -27,7 +27,7 @@ if (xp >= 1000) {
     nivel++;
     console.log(`Ayla subiu para o nível ${nivel}.`);
 } else {
-    console.log("Adquira mais xp para subir de nível");
+    console.log("Adquira mais xp para subir de nível haha");
 }
 
 if (ouro >= 300) {
