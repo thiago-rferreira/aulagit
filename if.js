@@ -35,6 +35,6 @@ if (xp >= 1000) {
 if (ouro >= 300) {
     console.log("Fala 300, fala 300");
 } else {
-    console.log("Ayla não tem ouro suficiente.");
+    console.log("Ayla não tem ouro suficienteeeeeeeeeeeeeeeeeeeee.");
     
 }
